@@ -1,0 +1,1 @@
+Object oriented paradigmada biz her bir obyekt? propertiler yaziriq ve eyni zamanda bir nece obyekt? birdefelik propertiler yaza bilerik.

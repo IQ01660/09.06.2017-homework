@@ -1,0 +1,1 @@
+Object may invlude many specific properties that can be or not shared with other objects. 

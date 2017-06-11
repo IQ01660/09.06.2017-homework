@@ -1,0 +1,1 @@
+A class may inherit objects as well as other classes. These inherited objects and classes involve the properties of the upper class as well as their own specific properties.

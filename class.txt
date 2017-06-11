@@ -1,0 +1,1 @@
+Class is what involves common properties of many objects

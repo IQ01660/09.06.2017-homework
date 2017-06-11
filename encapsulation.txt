@@ -1,0 +1,1 @@
+Encapsualtion is actually a way of combining or hiding (this one I did not understand) data and functions.

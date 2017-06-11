@@ -1,0 +1,1 @@
+Imperativ paradigmada her operasiya step by step gedir. Bundan ?lav? her step global computasiya statini deyisdire biler.
